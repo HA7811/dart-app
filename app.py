@@ -1,5 +1,5 @@
 import streamlit as st
-import OpenDartReader
+import opendartreader
 import pandas as pd
 import plotly.express as px
 
