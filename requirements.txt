@@ -1,4 +1,4 @@
 streamlit
-OpenDartReader
+opendartreader
 pandas
 plotly
